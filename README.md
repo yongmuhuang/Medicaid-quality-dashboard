@@ -33,7 +33,7 @@ This project explores the quality of healthcare delivery across U.S. states in 2
 
 - `Quality_Dashboard_Report.pdf` – Full project write-up with screenshots
 - `MedicaidDashboard.twbx` – Tableau Packaged Workbook (view in Tableau Desktopo or at https://public.tableau.com/app/profile/yong.huang3137/viz/2022Medicaidqualitymeasureperformanceamongstates/Dashboard1#1)
-- `RawData_Cleaning.sas` – SAS script used to clean data  
+
 
 
 ---
